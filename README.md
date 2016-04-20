@@ -1,0 +1,2 @@
+# Trunica
+notepad app + geolocation
